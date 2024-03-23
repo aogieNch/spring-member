@@ -1,4 +1,5 @@
 package com.gdu.demo;
 
-public class StudentController g{
+public class StudentController {
+
 }
